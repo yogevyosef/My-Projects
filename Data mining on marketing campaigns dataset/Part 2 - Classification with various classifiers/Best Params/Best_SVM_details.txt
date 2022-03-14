@@ -1,0 +1,5 @@
+accouracy
+C
+gamma
+kernel
+degree

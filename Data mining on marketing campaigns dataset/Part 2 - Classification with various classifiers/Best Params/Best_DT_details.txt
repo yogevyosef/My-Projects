@@ -1,0 +1,5 @@
+accouracy
+criterion
+max_deph
+min_samples_split
+min_samples_leaf

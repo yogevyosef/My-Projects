@@ -1,0 +1,7 @@
+accouracy
+max_depth
+max_features
+max_samples
+min_samples_leaf
+min_samples_split
+n_estimators
